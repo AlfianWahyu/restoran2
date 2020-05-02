@@ -1,0 +1,14 @@
+*{padding: 0px;margin: 0px;}
+body {width: full; margin: auto;}
+
+header {background-color: Chocolate; font-family: Verdana,arial,arial black}
+header h1 {color: black; padding: 15px;padding-bottom: 17px;}
+
+
+menu {background-color: snow;height: 40px;}
+menu ul {list-style: none; line-height: 40px;}
+menu ul li {float: left;width: 33%; text-align: center;}
+menu ul li a {color: yellowgreen;text-decoration: none;font-family: verdana;display: block;}
+menu ul li a:hover {background-color: Moccasin ;}
+
+footer{background-color: yellowgreen; text-align: center;height: 25px;}
